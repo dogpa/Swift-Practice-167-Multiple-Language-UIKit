@@ -1,0 +1,17 @@
+/* 
+  Localizable.strings
+  Swift Practice 167 Multiple Language UIKit
+
+  Created by Dogpa's MBAir M1 on 2022/7/20.
+  
+*/
+"週一" = "げつようび";
+"週二" = "かようび";
+"週三" = "すいようび";
+"週四" = "もくようび";
+"週五" = "きんようび";
+"週六" = "どようび";
+"週日" = "にちようび";
+"問候" = "おはよう";
+"壹加壹" = " 1 たす 1= %d";
+

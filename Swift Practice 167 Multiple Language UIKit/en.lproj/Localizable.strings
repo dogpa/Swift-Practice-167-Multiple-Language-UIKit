@@ -1,0 +1,18 @@
+/* 
+  Localizable.strings
+  Swift Practice 167 Multiple Language UIKit
+
+  Created by Dogpa's MBAir M1 on 2022/7/20.
+  
+*/
+
+"週一" = "Monday";
+"週二" = "Tuesday";
+"週三" = "Wednesday";
+"週四" = "Thursday";
+"週五" = "Friday";
+"週六" = "Saturday";
+"週日" = "Sunday";
+"問候" = "Get Weekdays";
+"壹加壹" = " one plus one = %d";
+
